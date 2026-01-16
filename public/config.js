@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/FINNPUTER28",
   "VITE_SEO_SITE_NAME": "FINNPUTER PERP DEX",
   "VITE_SEO_SITE_DESCRIPTION": "FINNPUTER PERP DEX",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/finnputer-perps-2489/",
+  "VITE_SEO_SITE_URL": "https://finnputerdex.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@FINNPUTER28",
